@@ -1,0 +1,16 @@
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing.deps.json
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing.runtimeconfig.json
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing.runtimeconfig.dev.json
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing.dll
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/ref/findmissing.dll
+/home/bene/workspace/codingpractice/findmissing/bin/Debug/net5.0/findmissing.pdb
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.csprojAssemblyReference.cache
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.GeneratedMSBuildEditorConfig.editorconfig
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.AssemblyInfoInputs.cache
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.AssemblyInfo.cs
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.csproj.CoreCompileInputs.cache
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.dll
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/ref/findmissing.dll
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.pdb
+/home/bene/workspace/codingpractice/findmissing/obj/Debug/net5.0/findmissing.genruntimeconfig.cache

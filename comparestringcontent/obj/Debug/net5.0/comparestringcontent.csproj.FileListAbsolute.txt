@@ -1,0 +1,16 @@
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent.deps.json
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent.runtimeconfig.json
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent.runtimeconfig.dev.json
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent.dll
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/ref/comparestringcontent.dll
+/home/bene/workspace/codingpractice/comparestringcontent/bin/Debug/net5.0/comparestringcontent.pdb
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.csprojAssemblyReference.cache
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.GeneratedMSBuildEditorConfig.editorconfig
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.AssemblyInfoInputs.cache
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.AssemblyInfo.cs
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.csproj.CoreCompileInputs.cache
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.dll
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/ref/comparestringcontent.dll
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.pdb
+/home/bene/workspace/codingpractice/comparestringcontent/obj/Debug/net5.0/comparestringcontent.genruntimeconfig.cache

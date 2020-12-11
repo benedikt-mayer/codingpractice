@@ -1,0 +1,16 @@
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers.deps.json
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers.runtimeconfig.json
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers.runtimeconfig.dev.json
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers.dll
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/ref/maxconsecutivenumbers.dll
+/home/bene/workspace/maxconsecutivenumbers/bin/Debug/net5.0/maxconsecutivenumbers.pdb
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.csprojAssemblyReference.cache
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.AssemblyInfoInputs.cache
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.AssemblyInfo.cs
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.csproj.CoreCompileInputs.cache
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.dll
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/ref/maxconsecutivenumbers.dll
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.pdb
+/home/bene/workspace/maxconsecutivenumbers/obj/Debug/net5.0/maxconsecutivenumbers.genruntimeconfig.cache

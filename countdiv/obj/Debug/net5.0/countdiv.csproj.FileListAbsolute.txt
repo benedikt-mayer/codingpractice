@@ -1,0 +1,16 @@
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.csprojAssemblyReference.cache
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.GeneratedMSBuildEditorConfig.editorconfig
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.AssemblyInfoInputs.cache
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.AssemblyInfo.cs
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.csproj.CoreCompileInputs.cache
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv.deps.json
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv.runtimeconfig.json
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv.runtimeconfig.dev.json
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv.dll
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/ref/countdiv.dll
+/home/bene/workspace/codingpractice/countdiv/bin/Debug/net5.0/countdiv.pdb
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.dll
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/ref/countdiv.dll
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.pdb
+/home/bene/workspace/codingpractice/countdiv/obj/Debug/net5.0/countdiv.genruntimeconfig.cache
