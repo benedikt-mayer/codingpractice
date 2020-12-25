@@ -1,5 +1,6 @@
 ﻿using System;
 
+// this is very similar to 09_maxprofit.
 Tuple<int, int, double> Solution(double[] pastData){
     double profit = 0;
     int bestBuyingIndex = -1;
