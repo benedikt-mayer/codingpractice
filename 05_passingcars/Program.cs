@@ -29,4 +29,4 @@ int solution(int[] A) {
 
 int[] testSet = {1, 0, 1, 0, 1};
 int testResult = 3;
-Console.WriteLine
+Console.WriteLine("solution is correct: " + (solution(testSet) == testResult));
